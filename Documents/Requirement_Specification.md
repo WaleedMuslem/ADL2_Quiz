@@ -61,3 +61,5 @@ Glossary:
 
 
 Non-Functional Requirements:
+- Performance: Ensure the application responds promptly to user interactions, with minimal delays, to provide a
+  smooth and engaging user experience.
