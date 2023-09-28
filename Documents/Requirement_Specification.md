@@ -7,6 +7,8 @@ entertainment.
 
 Intended Audience: DaQuiz is designed for a broad audience, including:
 Students looking for educational quizzes.
+Professionals seeking to test their expertise.
+Casual users interested in fun and informative quizzes
 
 User Needs:
 
