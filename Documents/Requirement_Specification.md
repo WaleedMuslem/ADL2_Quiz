@@ -15,6 +15,8 @@ User Needs:
 - A user-friendly and visually appealing interface.
 - An engaging and interactive quiz experience.
 - Real-time feedback on quiz performance.
+- Easy navigation and clear instructions.
+
 
 System Rules:
 
