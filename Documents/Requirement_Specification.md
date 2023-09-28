@@ -10,7 +10,9 @@ Students looking for educational quizzes.
 Professionals seeking to test their expertise.
 Casual users interested in fun and informative quizzes
 
-User Needs: Access to a variety of quiz categories.
+User Needs: 
+- Access to a variety of quiz categories.
+- A user-friendly and visually appealing interface.
 
 System Rules:
 
