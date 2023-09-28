@@ -1,5 +1,5 @@
-#DaQuiz
-Project Name:
+
+Project Name: DaQuiz
 
 Purpose:
 
