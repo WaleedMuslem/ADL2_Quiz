@@ -29,6 +29,9 @@ DaQuiz will adhere to the following system rules:
 - The system will track user scores and show at the end.
 
 Project Outline:
+User Interface (UI) for Quiz Taking: This component will serve as the primary interface for users to access 
+and interact with quizzes. It includes the following sub-components:
+
 
 Current Situation:
 
