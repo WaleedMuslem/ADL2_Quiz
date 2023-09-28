@@ -55,6 +55,9 @@ Glossary:
   on the DaQuiz platform.
 - CSS: Cascading Style Sheets is a stylesheet language used to describe the presentation and styling of HTML elements.
   It controls layout, colors, fonts, and more.
+- JavaScript: is a versatile programming language used for enhancing the interactivity and functionality of web pages.
+  It can manipulate HTML and CSS, handle user input, and perform various tasks.
+- Leaderboard: A ranking of users based on their quiz scores.
 
 
 Non-Functional Requirements:
