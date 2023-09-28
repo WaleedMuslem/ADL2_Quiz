@@ -43,6 +43,8 @@ comments on your result.
 
 
 Current Situation:
+Currently, the project is in the UI design phase, nearing completion. The team is preparing to move on to 
+the implementation phase.
 
 Glossary:
 
