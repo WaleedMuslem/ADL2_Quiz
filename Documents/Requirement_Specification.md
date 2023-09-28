@@ -19,6 +19,8 @@ User Needs:
 
 
 System Rules:
+DaQuiz will adhere to the following system rules:
+- Each quiz consists of 5 questions.
 
 Project Outline:
 
