@@ -32,13 +32,13 @@ Project Outline:
 User Interface (UI) for Quiz Taking: This component will serve as the primary interface for users to access 
 and interact with quizzes. It includes the following sub-components:
 
--Home page: The home page will have a “Start” button to navigate you to the quiz topic selection page 
+- Home page: The home page will have a “Start” button to navigate you to the quiz topic selection page 
 following with about and contact page.
--Quiz Pages: Pages dedicated to  individual quizzes, displaying questions, options, and user progress.
--Result Page: A page that provides immediate feedback on quiz performance, including scores and 
+- Quiz Pages: Pages dedicated to  individual quizzes, displaying questions, options, and user progress.
+- Result Page: A page that provides immediate feedback on quiz performance, including scores and 
 comments on your result.
--Design and Layout: A visually appealing design with intuitive layouts to enhance the user experience.
--Quiz API Integration: DaQuiz will integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
+- Design and Layout: A visually appealing design with intuitive layouts to enhance the user experience.
+- Quiz API Integration: DaQuiz will integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
 Current Situation:
 Currently, the project is in the UI design phase, nearing completion. The team is preparing to move on to 
