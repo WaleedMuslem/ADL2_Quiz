@@ -1,4 +1,4 @@
-
+ 
 Project Name: DaQuiz
 
 Purpose: The purpose of DaQuiz is to provide an interactive online platform for users to engage in short quizzes on
@@ -21,6 +21,8 @@ User Needs:
 System Rules:
 DaQuiz will adhere to the following system rules:
 - Each quiz consists of 5 questions.
+- Users must answer all questions to complete a quiz.
+- Users receive immediate feedback on their quiz results.
 
 Project Outline:
 
