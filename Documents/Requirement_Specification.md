@@ -35,6 +35,9 @@ and interact with quizzes. It includes the following sub-components:
 -Home page: The home page will have a “Start” button to navigate you to the quiz topic selection page 
 following with about and contact page.
 -Quiz Pages: Pages dedicated to  individual quizzes, displaying questions, options, and user progress.
+-Result Page: A page that provides immediate feedback on quiz performance, including scores and 
+comments on your result.
+
 
 
 Current Situation:
