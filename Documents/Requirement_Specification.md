@@ -6,13 +6,13 @@
 various topics. It aims to offer an enjoyable and educational experience, promoting knowledge and
 entertainment.
 
-Intended Audience:
+## Intended Audience:
 - DaQuiz is designed for a broad audience, including:
 Students looking for educational quizzes.
 Professionals seeking to test their expertise.
 Casual users interested in fun and informative quizzes
 
-User Needs: 
+## User Needs: 
 - Access to a variety of quiz categories.
 - A user-friendly and visually appealing interface.
 - An engaging and interactive quiz experience.
@@ -20,7 +20,7 @@ User Needs:
 - Easy navigation and clear instructions.
 
 
-System Rules:
+## System Rules:
 DaQuiz will adhere to the following system rules:
 - Each quiz consists of 5 questions.
 - Users must answer all questions to complete a quiz.
@@ -28,7 +28,7 @@ DaQuiz will adhere to the following system rules:
 - Quizzes are categorized by topic.
 - The system will track user scores and show at the end.
 
-Project Outline:
+## Project Outline:
 User Interface (UI) for Quiz Taking: This component will serve as the primary interface for users to access 
 and interact with quizzes. It includes the following sub-components:
 
@@ -40,16 +40,16 @@ comments on your result.
 - Design and Layout: A visually appealing design with intuitive layouts to enhance the user experience.
 - Quiz API Integration: DaQuiz will integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
-Current Situation:
+## Current Situation:
 Currently, the project is in the UI design phase, nearing completion. The team is preparing to move on to 
 the implementation phase.
 
-Goal:
+## Goal:
 The goal of the DaQuiz project is to launch a fully functional and engaging quiz platform that provides users 
 with an enjoyable and educational experience. The platform should attract and retain users by offering a variety 
 of high-quality quizzes.
 
-Glossary:
+## Glossary:
 - HTML: Hypertext Markup Language is the standard markup language for creating web pages. It is used to structure
   content on the web, defining elements like headings, paragraphs, links, and more. User: An individual registered
   on the DaQuiz platform.
@@ -60,7 +60,7 @@ Glossary:
 - Leaderboard: A ranking of users based on their quiz scores.
 
 
-Non-Functional Requirements:
+## Non-Functional Requirements:
 - Performance: Ensure the application responds promptly to user interactions, with minimal delays, to provide a
   smooth and engaging user experience.
 
