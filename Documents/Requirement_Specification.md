@@ -46,8 +46,15 @@ the implementation phase.
 
 Goal:
 The goal of the DaQuiz project is to launch a fully functional and engaging quiz platform that provides users 
-with an enjoyable and educational experience. The platform should attract and retain users by offering a variety of high-quality quizzes.
+with an enjoyable and educational experience. The platform should attract and retain users by offering a variety 
+of high-quality quizzes.
 
 Glossary:
+- HTML: Hypertext Markup Language is the standard markup language for creating web pages. It is used to structure
+  content on the web, defining elements like headings, paragraphs, links, and more. User: An individual registered
+  on the DaQuiz platform.
+- CSS: Cascading Style Sheets is a stylesheet language used to describe the presentation and styling of HTML elements.
+  It controls layout, colors, fonts, and more.
+
 
 Non-Functional Requirements:
