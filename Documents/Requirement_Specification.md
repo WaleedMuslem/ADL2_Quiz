@@ -40,11 +40,13 @@ comments on your result.
 -Design and Layout: A visually appealing design with intuitive layouts to enhance the user experience.
 -Quiz API Integration: DaQuiz will integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
-
-
 Current Situation:
 Currently, the project is in the UI design phase, nearing completion. The team is preparing to move on to 
 the implementation phase.
+
+Goal:
+The goal of the DaQuiz project is to launch a fully functional and engaging quiz platform that provides users 
+with an enjoyable and educational experience. The platform should attract and retain users by offering a variety of high-quality quizzes.
 
 Glossary:
 
