@@ -36,7 +36,7 @@ and interact with quizzes. It includes the following sub-components:
 following with about and contact page.
 -Quiz Pages: Pages dedicated to  individual quizzes, displaying questions, options, and user progress.
 -Result Page: A page that provides immediate feedback on quiz performance, including scores and 
-comments on your result.
+comments on your result
 
 
 
