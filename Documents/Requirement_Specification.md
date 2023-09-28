@@ -31,9 +31,10 @@ DaQuiz will adhere to the following system rules:
 Project Outline:
 User Interface (UI) for Quiz Taking: This component will serve as the primary interface for users to access 
 and interact with quizzes. It includes the following sub-components:
-Home page: The home page will have a “Start” button to navigate you to the quiz topic selection page 
+
+-Home page: The home page will have a “Start” button to navigate you to the quiz topic selection page 
 following with about and contact page.
-Quiz Pages: Pages dedicated to
+-Quiz Pages: Pages dedicated to  individual quizzes, displaying questions, options, and user progress.
 
 
 Current Situation:
