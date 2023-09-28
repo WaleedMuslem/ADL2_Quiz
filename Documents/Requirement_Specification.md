@@ -13,6 +13,7 @@ Casual users interested in fun and informative quizzes
 User Needs: 
 - Access to a variety of quiz categories.
 - A user-friendly and visually appealing interface.
+- An engaging and interactive quiz experience.
 
 System Rules:
 
