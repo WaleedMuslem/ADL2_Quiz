@@ -23,6 +23,8 @@ DaQuiz will adhere to the following system rules:
 - Each quiz consists of 5 questions.
 - Users must answer all questions to complete a quiz.
 - Users receive immediate feedback on their quiz results.
+- Quizzes are categorized by topic.
+- The system will track user scores and show at the end.
 
 Project Outline:
 
