@@ -64,5 +64,5 @@ Non-Functional Requirements:
 - Performance: Ensure the application responds promptly to user interactions, with minimal delays, to provide a
   smooth and engaging user experience.
 
--Quality: Create an aesthetically pleasing and user-friendly interface as well as optimize the application's 
+- Quality: Create an aesthetically pleasing and user-friendly interface as well as optimize the application's 
 code and data transfer processes to operate efficiently, reducing load times and resource consumption.
