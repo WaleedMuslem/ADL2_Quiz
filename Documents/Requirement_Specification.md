@@ -38,6 +38,7 @@ following with about and contact page.
 -Result Page: A page that provides immediate feedback on quiz performance, including scores and 
 comments on your result.
 -Design and Layout: A visually appealing design with intuitive layouts to enhance the user experience.
+-Quiz API Integration: DaQuiz will integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
 
 
