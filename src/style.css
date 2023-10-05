@@ -231,6 +231,8 @@ box-shadow: 0px 6px 15px -1px rgba(0,0,0,0.3);
 }
 
 .box{
+    display: flex;
+    flex-direction: row;
     box-sizing: border-box;
     width: 429px;
     height: 576px;
