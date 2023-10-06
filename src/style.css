@@ -41,6 +41,32 @@ section {
 #about-page {
     height: 100vh;
 }
+p.Contacts{
+    color: #ffffff;
+    font: poppins;
+    font-size: 60px;
+    width: 75px;
+    height: 50%;
+    top: 80px;;
+    left: 90px;
+    bottom: 20px;
+    margin-left: 66px;
+    margin-top: 15px;
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 1239px;
+    height: 50px;
+    top: 1378px;
+    left: 1200px;
+    border-radius: 41px;
+    margin-left:55px;
+    
+
+}
+
 
 .header {
     display: flex;
