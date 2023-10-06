@@ -66,6 +66,29 @@ p.Contacts{
     
 
 }
+.Column{
+    background: #FFFFFF75;
+    width: 310px;
+   height: 500px;
+   top: 500px;
+   left: 50px;
+   border-radius: 41px;
+   margin-left: 10px;
+}
+.pictures{
+    display: flex;
+    background: #FFFFFF;
+    justify-content: center;
+    align-items: center;
+    border-radius: 75%;
+    overflow: hidden;
+    width: 158px;
+   height: 158px;
+   top: 500px;
+   left: 1113px;
+   margin-top:20px;
+   margin-left: 62px;
+}
 
 
 .header {
