@@ -41,6 +41,7 @@ section {
 #about-page {
     height: 100vh;
 }
+// contact section.
 p.Contacts{
     color: #ffffff;
     font: poppins;
@@ -90,6 +91,8 @@ p.Contacts{
    margin-left: 62px;
 }
 
+
+//end of contact section
 
 .header {
     display: flex;
