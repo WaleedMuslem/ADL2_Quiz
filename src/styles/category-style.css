@@ -1,1 +1,17 @@
-
+.box {
+    display: flex;
+    flex-direction: row;
+}
+.box .child{
+    box-sizing: border-box;
+    width: 429px;
+    height: 576px;
+    flex-shrink: 0;
+    border-radius: 53px;
+    background: #E6B0FF;
+}
+.categoriesPositioning{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
