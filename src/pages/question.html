@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="../styles/questions.css">
   <title>Document</title>
 </head>
-<body class>
+<body>
   <div class="top-timer">00:15</div>
   <div class="card">
     
@@ -16,14 +16,18 @@
       <h1>1. What is the closet star to earth?</h1>
     </div>
     <div class="answers">
-      <div class="choice"><p>Mars</p></div>
-      <div class="choice"><p>Saturn</p></div>
-      <div class="choice"><p>Sun</p></div>
-      <div class="choice"><p>Jupiter</p></div>
+      <ul class="options">
+        <li>Mars</li>
+        <li>Sun</li>
+        <li>Jupiter</li>
+        <li>Saturn</li>
+      </ul>
     </div>
-    <div class="next-btn">
+    <div id="next-button" class="next-btn">
       <div class="btn"><a href="./result.html"><i class="fa-solid fa-chevron-right"></i></a></div>
     </div>
   </div>
+
+  <script defer src="app.js"></script>
 </body>
 </html>
