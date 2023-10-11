@@ -61,6 +61,7 @@ function getCategoryId(category) {
       return 9; 
   }
 }
+function startTimer() {
       
       
   
