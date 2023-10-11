@@ -147,5 +147,10 @@ function checkCount() {
         _question.style.display = "none";
         _options.style.display = "none";
     }
+  else {
+        setTimeout(function () {
+            loadQuestion();
+        }, 300);
+    }
 
   
