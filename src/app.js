@@ -9,4 +9,4 @@ const _correctScore = document.getElementById('correct-score');
 const _totalQuestion = document.getElementById('total-question');
 const _timer = document.getElementById('timer');
 
-const _timer = document.getElementById('timer');
+let correctAnswer = "",
