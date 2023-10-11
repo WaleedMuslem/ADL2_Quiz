@@ -86,5 +86,6 @@ function showQuestion(data) {
   _question.innerHTML = `${data.question} ` ;
    _options.innerHTML = `
    ${optionsList.map((option, index) => `
+   <li> ${index + 1}. <span>${option}</span> </li>
       
   
