@@ -34,4 +34,5 @@ function eventListeners() {
 
 document.addEventListener('DOMContentLoaded', function () {
       eventListeners();
+   _totalQuestion.textContent = totalQuestion;
   
