@@ -124,8 +124,12 @@ function checkAnswer() {
         _checkBtn.disabled = false;
   }
 }
+
 function HTMLDecode(textString){
   let doc = new DOMParser().parseFromString(textString, "text/html");
   return doc.documentElement.textContent;
 }
+
+function checkCount()
+
   
