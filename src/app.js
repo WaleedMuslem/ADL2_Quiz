@@ -121,3 +121,6 @@ function checkAnswer() {
   }
   else {
         _result.innerHTML = `<p>Please select an option!</p>`;
+        _checkBtn.disabled = false;
+  }
+}
