@@ -90,4 +90,6 @@ function showQuestion(data) {
    `).join('')}
   `;
   selectOption();
+  startTimer();
+}
   
