@@ -79,5 +79,6 @@ function startTimer() {
 
 function showQuestion(data) {
    _checkBtn.disabled = false;
+  correctAnswer = data.correct_answer;
       
   
