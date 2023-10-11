@@ -163,4 +163,5 @@ function setCount() {
   _question.style.display = "block";
   _options.style.display = "block";
   _checkBtn.disabled = false;
+  setCount();
   
