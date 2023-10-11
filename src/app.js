@@ -47,4 +47,5 @@ async function loadQuestion() {
   const data = await result.json();
   _result.innerHTML = "";
   showQuestion(data.results[0]);
+}
   
