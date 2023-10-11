@@ -124,4 +124,6 @@ function checkAnswer() {
         _checkBtn.disabled = false;
   }
 }
-function HTMLDecode(textString)
+function HTMLDecode(textString){
+  let doc = new DOMParser().parseFromString(textString, "text/html");
+  
