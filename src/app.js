@@ -13,3 +13,8 @@ let correctAnswer = "",
     correctScore = askedCount = 0,
     totalQuestion = 3;
 let selectedCategory = null;
+
+function eventListeners() {
+    _checkBtn.addEventListener('click', checkAnswer);
+    _playAgainBtn.addEventListener('click', restartQuiz);
+}
