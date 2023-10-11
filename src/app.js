@@ -154,6 +154,7 @@ function checkCount() {
     }
 }
 
-function setCount()
+function setCount() {
+  correctScore = askedCount = 0;
 
   
