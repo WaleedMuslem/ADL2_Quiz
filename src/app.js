@@ -61,12 +61,14 @@ function getCategoryId(category) {
       return 9; 
   }
 }
+
 function startTimer() {
   let timeLeft = 15;
    _timer.textContent = `00:${timeLeft}`;
   timerInterval = setInterval(() => {
   timeLeft--;
   _timer.textContent = `00:${timeLeft}`;
-      
+
+  if (timeLeft <= 0) {
       
   
