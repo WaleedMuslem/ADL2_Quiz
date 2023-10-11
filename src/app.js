@@ -65,6 +65,7 @@ function startTimer() {
   let timeLeft = 15;
    _timer.textContent = `00:${timeLeft}`;
   timerInterval = setInterval(() => {
+  timeLeft--;
       
       
   
