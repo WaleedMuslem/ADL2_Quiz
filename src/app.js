@@ -48,4 +48,6 @@ async function loadQuestion() {
   _result.innerHTML = "";
   showQuestion(data.results[0]);
 }
+
+function getCategoryId(category) {
   
