@@ -92,4 +92,5 @@ function showQuestion(data) {
   selectOption();
   startTimer();
 }
+function selectOption() {
   
