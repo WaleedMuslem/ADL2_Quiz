@@ -13,3 +13,5 @@ let correctAnswer = "",
   correctScore = askedCount = 0,
   totalQuestion = 3;
 let selectedCategory = null;
+
+const categoryButtons = {
