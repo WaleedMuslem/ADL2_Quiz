@@ -113,6 +113,11 @@ function checkAnswer() {
     if (selectedAnswer === HTMLDecode(correctAnswer)) {
       correctScore++;
       _result.innerHTML = "";
-    } else {
+    } else 
+    {
             _result.innerHTML = "";
-        }
+    }
+    checkCount();
+  }
+  else {
+        _result.innerHTML = `<p>Please select an option!</p>`;
