@@ -62,6 +62,8 @@ function getCategoryId(category) {
   }
 }
 function startTimer() {
+  let timeLeft = 15;
+    _timer.textContent = `00:${timeLeft}`;
       
       
   
