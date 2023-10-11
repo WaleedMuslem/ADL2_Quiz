@@ -106,3 +106,4 @@ function selectOption() {
 }
 
 function checkAnswer() {
+  clearInterval(timerInterval);
