@@ -159,4 +159,5 @@ function setCount() {
   _playAgainBtn.style.display = "none";
   _backHome.style.display = "none";
   _comment.style.display = "none";
+  _checkBtn.style.display = "block";
   
