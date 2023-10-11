@@ -134,5 +134,18 @@ function checkCount() {
   askedCount++;
   setCount();
   _comment.innerHTML = '';
+  if (askedCount === totalQuestion) {
+        setTimeout(function () {
+            console.log("");
+        }, 5000);
+        _comment.style.display ="block"
+        _comment.innerHTML += `<p>${correctScore === 0 ? 'Try again!' : correctScore === 1 ? 'Keep going!' : correctScore === 2 ? 'Nice try!' : correctScore === 3 ? 'Well done!' : correctScore === 4 ? 'Good job!' : correctScore === 5 ? 'Excellent' : ''}</p>`;
+        _result.innerHTML += `<p>${correctScore}/5</p>`;
+        _playAgainBtn.style.display = "block";
+        _backHome.style.display = "block";
+        _checkBtn.style.display = "none";
+        _question.style.display = "none";
+        _options.style.display = "none";
+    }
 
   
