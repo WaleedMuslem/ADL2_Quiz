@@ -57,5 +57,7 @@ function getCategoryId(category) {
       return 23;
       case 'computer':
       return 18;
+      default:
+      
       
   
