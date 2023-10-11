@@ -32,7 +32,7 @@ function sumMath(data){
 function sumComputing(data){
     computing.forEach(element => {
         if(data==element){
-            mathSum++;
+            computingSum++;
         }
     });
 }
@@ -40,7 +40,7 @@ function sumComputing(data){
 function sumHistory(data){
     history.forEach(element => {
         if(data==element){
-            mathSum++;
+            historySum++;
         }
     });
 }
