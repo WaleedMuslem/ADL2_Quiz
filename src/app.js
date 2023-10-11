@@ -70,5 +70,6 @@ function startTimer() {
   _timer.textContent = `00:${timeLeft}`;
 
   if (timeLeft <= 0) {
+    clearInterval(timerInterval);
       
   
