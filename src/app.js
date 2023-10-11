@@ -98,4 +98,5 @@ function selectOption() {
       if (_options.querySelector('.selected')) {
        const activeOption = _options.querySelector('.selected');
         activeOption.classList.remove('selected');
-  
+      }
+      option.classList.add('selected');
