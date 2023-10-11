@@ -12,3 +12,4 @@ const _timer = document.getElementById('timer');
 let correctAnswer = "",
   correctScore = askedCount = 0,
   totalQuestion = 3;
+let selectedCategory = null;
