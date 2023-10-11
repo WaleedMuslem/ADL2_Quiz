@@ -85,5 +85,6 @@ function showQuestion(data) {
   optionsList.splice(Math.floor(Math.random() * (incorrectAnswer.length + 1)), 0, correctAnswer);
   _question.innerHTML = `${data.question} ` ;
    _options.innerHTML = `
+   ${optionsList.map((option, index) => `
       
   
