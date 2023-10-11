@@ -17,3 +17,5 @@ let selectedCategory = null;
 const categoryButtons = {
       math: document.getElementById('math-category'),
       history: document.getElementById('history-category'),
+      computer: document.getElementById('computer-category')
+};
