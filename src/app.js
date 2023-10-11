@@ -36,4 +36,6 @@ document.addEventListener('DOMContentLoaded', function () {
       eventListeners();
    _totalQuestion.textContent = totalQuestion;
    _correctScore.textContent = correctScore;
-  
+  loadQuestion();
+  );
+}
