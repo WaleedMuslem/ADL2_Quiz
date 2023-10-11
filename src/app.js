@@ -75,5 +75,8 @@ function startTimer() {
   }
   }, 1000);
 }
+
+
+function showQuestion(data) {
       
   
