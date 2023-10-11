@@ -23,5 +23,7 @@ const categoryButtons = {
 function eventListeners() {
   _checkBtn.addEventListener('click', checkAnswer);
       _playAgainBtn.addEventListener('click', restartQuiz);
+
+  Object.keys(categoryButtons).forEach(category => {
 };
   
