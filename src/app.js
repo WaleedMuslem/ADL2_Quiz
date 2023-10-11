@@ -19,3 +19,6 @@ const categoryButtons = {
       history: document.getElementById('history-category'),
       computer: document.getElementById('computer-category')
 };
+
+function eventListeners() {
+  
