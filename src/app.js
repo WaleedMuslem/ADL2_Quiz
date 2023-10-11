@@ -44,3 +44,4 @@ async function loadQuestion() {
   const category = selectedCategory || 'general'; 
   const APIUrl = `https://opentdb.com/api.php?amount=1&category=${getCategoryId(category)}`;
   const result = await fetch(`${APIUrl}`);
+  const data = await result.json();
