@@ -78,5 +78,6 @@ function startTimer() {
 
 
 function showQuestion(data) {
+   _checkBtn.disabled = false;
       
   
