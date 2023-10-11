@@ -156,5 +156,6 @@ function checkCount() {
 
 function setCount() {
   correctScore = askedCount = 0;
+  _playAgainBtn.style.display = "none";
 
   
