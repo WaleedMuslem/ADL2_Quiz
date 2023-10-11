@@ -160,4 +160,5 @@ function setCount() {
   _backHome.style.display = "none";
   _comment.style.display = "none";
   _checkBtn.style.display = "block";
+  _question.style.display = "block";
   
