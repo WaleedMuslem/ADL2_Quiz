@@ -113,3 +113,6 @@ function checkAnswer() {
     if (selectedAnswer === HTMLDecode(correctAnswer)) {
       correctScore++;
       _result.innerHTML = "";
+    } else {
+            _result.innerHTML = "";
+        }
