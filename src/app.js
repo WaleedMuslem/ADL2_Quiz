@@ -93,4 +93,5 @@ function showQuestion(data) {
   startTimer();
 }
 function selectOption() {
+  _options.querySelectorAll('li').forEach(function (option) {
   
