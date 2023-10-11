@@ -10,3 +10,4 @@ const _totalQuestion = document.getElementById('total-question');
 const _timer = document.getElementById('timer');
 
 let correctAnswer = "",
+  correctScore = askedCount = 0,
