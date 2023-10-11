@@ -25,5 +25,6 @@ function eventListeners() {
       _playAgainBtn.addEventListener('click', restartQuiz);
 
   Object.keys(categoryButtons).forEach(category => {
+    categoryButtons[category].addEventListener('click', () => {
 };
   
