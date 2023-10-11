@@ -88,5 +88,6 @@ function showQuestion(data) {
    ${optionsList.map((option, index) => `
    <li> ${index + 1}. <span>${option}</span> </li>
    `).join('')}
-      
+  `;
+  selectOption();
   
