@@ -108,3 +108,4 @@ function selectOption() {
 function checkAnswer() {
   clearInterval(timerInterval);
   _checkBtn.disabled = true;
+  if (_options.querySelector('.selected')) {
