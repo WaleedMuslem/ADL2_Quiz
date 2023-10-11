@@ -21,4 +21,5 @@ const categoryButtons = {
 };
 
 function eventListeners() {
+  _checkBtn.addEventListener('click', checkAnswer);
   
