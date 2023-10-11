@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function () {
 }
 
 async function loadQuestion() {
+  const category = selectedCategory || 'general'; 
