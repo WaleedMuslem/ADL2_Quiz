@@ -104,3 +104,5 @@ function selectOption() {
 
   });
 }
+
+function checkAnswer() {
