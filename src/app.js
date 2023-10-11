@@ -124,3 +124,4 @@ function checkAnswer() {
         _checkBtn.disabled = false;
   }
 }
+function HTMLDecode(textString)
