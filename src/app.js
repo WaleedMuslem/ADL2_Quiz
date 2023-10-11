@@ -71,5 +71,9 @@ function startTimer() {
 
   if (timeLeft <= 0) {
     clearInterval(timerInterval);
+    checkCount();
+  }
+  }, 1000);
+}
       
   
