@@ -53,5 +53,6 @@ function getCategoryId(category) {
   switch (category) {
       case 'math':
       return 19;
+      case 'history':
       
   
