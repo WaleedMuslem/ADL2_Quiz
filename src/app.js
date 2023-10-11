@@ -164,4 +164,6 @@ function setCount() {
   _options.style.display = "block";
   _checkBtn.disabled = false;
   setCount();
+  loadQuestion();
+}
   
