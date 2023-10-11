@@ -26,5 +26,6 @@ function eventListeners() {
 
   Object.keys(categoryButtons).forEach(category => {
     categoryButtons[category].addEventListener('click', () => {
+      selectedCategory = category;
 };
   
