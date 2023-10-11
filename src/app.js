@@ -133,5 +133,6 @@ function HTMLDecode(textString){
 function checkCount() {
   askedCount++;
   setCount();
+  _comment.innerHTML = '';
 
   
