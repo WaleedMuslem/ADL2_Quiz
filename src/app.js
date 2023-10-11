@@ -45,3 +45,4 @@ async function loadQuestion() {
   const APIUrl = `https://opentdb.com/api.php?amount=1&category=${getCategoryId(category)}`;
   const result = await fetch(`${APIUrl}`);
   const data = await result.json();
+  _result.innerHTML = "";
