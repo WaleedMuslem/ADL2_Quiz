@@ -130,6 +130,8 @@ function HTMLDecode(textString){
   return doc.documentElement.textContent;
 }
 
-function checkCount()
+function checkCount() {
+  askedCount++;
+  setCount();
 
   
