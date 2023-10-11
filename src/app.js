@@ -42,3 +42,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
 async function loadQuestion() {
   const category = selectedCategory || 'general'; 
+  const APIUrl = `https://opentdb.com/api.php?amount=1&category=${getCategoryId(category)}`;
