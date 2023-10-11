@@ -51,5 +51,6 @@ async function loadQuestion() {
 
 function getCategoryId(category) {
   switch (category) {
+      case 'math':
       
   
