@@ -15,3 +15,4 @@ let correctAnswer = "",
 let selectedCategory = null;
 
 const categoryButtons = {
+      math: document.getElementById('math-category'),
