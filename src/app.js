@@ -9,19 +9,4 @@ const _correctScore = document.getElementById('correct-score');
 const _totalQuestion = document.getElementById('total-question');
 const _timer = document.getElementById('timer');
 
-let correctAnswer = "",
-    correctScore = askedCount = 0,
-    totalQuestion = 3;
-let selectedCategory = null;
-
-function eventListeners() {
-    _checkBtn.addEventListener('click', checkAnswer);
-    _playAgainBtn.addEventListener('click', restartQuiz);
-
-    Object.keys(categoryButtons).forEach(category => {
-        categoryButtons[category].addEventListener('click', () => {
-            selectedCategory = category;
-            restartQuiz();
-        });
-    });
-}
+const _timer = document.getElementById('timer');
