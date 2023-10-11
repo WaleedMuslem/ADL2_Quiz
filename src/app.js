@@ -100,3 +100,7 @@ function selectOption() {
         activeOption.classList.remove('selected');
       }
       option.classList.add('selected');
+    });
+
+  });
+}
