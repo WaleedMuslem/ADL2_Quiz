@@ -152,5 +152,6 @@ function checkCount() {
             loadQuestion();
         }, 300);
     }
+}
 
   
