@@ -12,23 +12,39 @@
 <body>
   <div class="top-timer" id="time">
   </div>
-  <div class="card">
+ <div class="wrapper">
+
+    <div class="quiz-container">
+
+    <div class="quiz-question" id="question"></div>
+
+    <ul class="quiz-options"></ul>
     
-    <div id="questions" class="questions">
-      <h1>1. What is the closet star to earth?</h1>
+    <div class="quiz-foot">
+        <button id="check-answer"><i class="fa-solid fa-chevron-right"></i></button>
     </div>
-    <div class="answers">
-      <ul class="options">
-        <li>Mars</li>
-        <li>Sun</li>
-        <li>Jupiter</li>
-        <li>Saturn</li>
-      </ul>
+
+    
+        <button id="back-home" style="display: none;">Go back home</button>
+        <button id="play-again" style="display: none;">Try again!</button>
+        <p id="comment" style="display: none;"></p>
+        <div id="result"></div>
+  
+
+    
+
+    <div class="quiz-score-flex">
+        <span class="quiz-score">Correct Score: <span id="correct-score">0</span></span>
+        <span>Total Questions: <span id="total-question">0</span></span>
     </div>
-    <div id="next-button" class="next-btn">
-      <div class="btn"><i class="fa-solid fa-chevron-right"></i></div>
+
+    <button id="math-category">Math</button>
+    <button id="history-category">History</button>
+    <button id="computer-category">Computer</button>
+
     </div>
-  </div>
+
+    </div>
 </body>
 <script>
   var time=15;
