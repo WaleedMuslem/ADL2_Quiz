@@ -95,4 +95,5 @@ function showQuestion(data) {
 function selectOption() {
   _options.querySelectorAll('li').forEach(function (option) {
     option.addEventListener('click', function () {
+      if (_options.querySelector('.selected')) {
   
