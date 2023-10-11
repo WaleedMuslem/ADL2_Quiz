@@ -109,3 +109,4 @@ function checkAnswer() {
   clearInterval(timerInterval);
   _checkBtn.disabled = true;
   if (_options.querySelector('.selected')) {
+    let selectedAnswer = _options.querySelector('.selected span').textContent;
