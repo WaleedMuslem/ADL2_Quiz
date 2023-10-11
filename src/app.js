@@ -54,5 +54,6 @@ function getCategoryId(category) {
       case 'math':
       return 19;
       case 'history':
+      return 23;
       
   
