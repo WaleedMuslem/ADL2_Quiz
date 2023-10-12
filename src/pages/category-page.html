@@ -34,8 +34,8 @@
             </div>
             <br>
             <div class="box">
-                <a>
-                <img class="image" src="https://images.pexels.com/photos/6238048/pexels-photo-6238048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Math" id="category-math">
+                <a href="./question.html">
+                <img class="image" src="https://images.pexels.com/photos/6238048/pexels-photo-6238048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Math" id="category-math">   
                 </a>
                 <a >
                     <img class="image" src="https://images.pexels.com/photos/2350368/pexels-photo-2350368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="History" id="category-history">
@@ -46,14 +46,5 @@
             </div>  
         </div>
 </body>
-<script>
-    async function loadQuestion() {
-    const category = selectedCategory || 'general'; 
-    const APIUrl = `https://opentdb.com/api.php?amount=1&category=${getCategoryId(category)}`;
-    const result = await fetch(`${APIUrl}`);
-    const data = await result.json();
-    _result.innerHTML = "";
-    showQuestion(data.results[0]);
-}
-</script>
+
 </html>

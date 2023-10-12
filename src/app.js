@@ -38,8 +38,8 @@ document.addEventListener('DOMContentLoaded', function () {
    _totalQuestion.textContent = totalQuestion;
    _correctScore.textContent = correctScore;
   loadQuestion();
-  );
-}
+});
+
 
 async function loadQuestion() {
   const category = selectedCategory || 'general'; 
