@@ -23,6 +23,7 @@
 
 ## User Interface (UI) for Quiz Taking
 - Create an engaging and interactive user interface.
+- Ensure easy navigation and provide clear instructions.
 
 
 
