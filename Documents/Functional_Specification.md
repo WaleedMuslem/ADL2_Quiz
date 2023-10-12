@@ -16,6 +16,7 @@
   Questions, options, and user progress.
 - Result page
   Immediate feedback on quiz performance, including scores and comments.
+- Quiz category
 
 
 
