@@ -5,9 +5,11 @@
   entertainment.
 
 ## User Roles
--Access and interact with quizzes without creating an account.
+- Access and interact with quizzes without creating an account.
 
 ## General Functionality
+- Home Page
+
 
 
 
