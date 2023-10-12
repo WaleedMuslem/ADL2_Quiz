@@ -26,6 +26,7 @@
 - Ensure easy navigation and provide clear instructions.
 
 ## Quiz API Integration
+- Integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
 
 
