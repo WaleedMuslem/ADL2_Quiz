@@ -19,6 +19,8 @@
 - Quiz category
   Categorized quizzes by topic.
 - Users score
+  System tracks user scores and displays them at the end.
+
 
 
 
