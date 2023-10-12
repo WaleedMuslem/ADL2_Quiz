@@ -42,6 +42,7 @@
 - Provide user instructions and any necessary documentation.
 
 ## Timeline
+- Project milestones and delivery dates.
 
 
 
