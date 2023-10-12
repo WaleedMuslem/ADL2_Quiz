@@ -45,6 +45,7 @@
 - Project milestones and delivery dates.
 
 ## Technology Stack
+- Front-end: HTML, CSS, 
 
 
 
