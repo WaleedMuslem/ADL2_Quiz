@@ -27,6 +27,8 @@
 ## User Interface (UI) for Quiz Taking
 - Create an engaging and interactive user interface.
 - Ensure easy navigation and provide clear instructions.
+
+  
   ![UI Interface](../Documents/images/HomePage.JPG "UI Interface")
 
 ## Quiz API Integration
