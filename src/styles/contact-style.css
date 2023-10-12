@@ -8,18 +8,12 @@ p.Contacts{
     top: 80px;;
     left: 90px;
     bottom: 20px;
-    margin-left: 66px;
     margin-top: 15px;
+    margin-bottom: 30px;
 }
 .container{
     display: flex;
-    justify-content: space-between;
-    width: 1239px;
-    height: 50px;
-    top: 1378px;
-    left: 1200px;
-    border-radius: 41px;
-    margin-left:55px;
+    flex-direction: row;
 }
 .Column{
     background: #FFFFFF75;
@@ -37,18 +31,23 @@ p.Contacts{
     align-items: center;
     border-radius: 75%;
     overflow: hidden;
-    width: 158px;
-    height: 158px;
+    width: 160px;
+    height: 160px;
     top: 500px;
     left: 1113px;
     margin-top:20px;
-    margin-left: 62px;
+    margin-left: 75px;
+}
+.center{
+    display: flex;
+    margin-top: 20px;
+    margin: 0 auto;
 }
 
 .name{
     display: flex;
     color: #3E59E4;
-    margin-left: 70px;
+    justify-content: center;
     margin-top: 20px;
     align-items: center;
 
