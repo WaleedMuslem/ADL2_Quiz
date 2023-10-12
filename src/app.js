@@ -143,6 +143,7 @@ function checkCount() {
         _result.innerHTML += `<p>${correctScore}/5</p>`;
         _playAgainBtn.style.display = "block";
         _backHome.style.display = "block";
+        _timer.style.display = "none";
         _checkBtn.style.display = "none";
         _question.style.display = "none";
         _options.style.display = "none";
