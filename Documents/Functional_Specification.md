@@ -45,7 +45,7 @@
 - Project milestones and delivery dates.
 
 ## Technology Stack
-- Front-end: HTML, CSS, 
+- Front-end: HTML, CSS, and JavaScript will be used to build the user interface and enhance interactivity.
 
 
 
