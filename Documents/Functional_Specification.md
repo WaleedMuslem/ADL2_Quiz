@@ -44,6 +44,8 @@
 ## Timeline
 - Project milestones and delivery dates.
 
+## Technology Stack
+
 
 
 
