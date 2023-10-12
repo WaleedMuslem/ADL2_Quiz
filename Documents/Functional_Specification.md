@@ -31,6 +31,8 @@
 ## Design and Layout
 - Develop a visually appealing design with intuitive layouts to enhance the user experience.
 
+## Performance
+
 
 
 
