@@ -29,8 +29,8 @@ function eventListeners() {
     categoryButtons[category].addEventListener('click', () => {
       selectedCategory = category;
       restartQuiz();
-      );
-    );
+    });
+  });
 }
 
 document.addEventListener('DOMContentLoaded', function () {
