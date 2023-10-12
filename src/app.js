@@ -1,3 +1,4 @@
+const _container = document.getElementById('container');
 const _question = document.getElementById('question');
 const _options = document.querySelector('.quiz-options');
 const _checkBtn = document.getElementById('check-answer');
