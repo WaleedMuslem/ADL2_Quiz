@@ -32,6 +32,7 @@
 - Develop a visually appealing design with intuitive layouts to enhance the user experience.
 
 ## Performance
+-Ensure the application responds promptly to user interactions for a smooth user experience.
 
 
 
