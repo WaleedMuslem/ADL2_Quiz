@@ -1,18 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://kit.fontawesome.com/2d95ff6af1.js" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="../styles/styles.css">
-  <link rel="stylesheet" href="../styles/questions.css">
-  <title>Question</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Game - API Project</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://kit.fontawesome.com/2d95ff6af1.js" crossorigin="anonymous"></script>
+    <link rel = "stylesheet" href = "style.css">
 </head>
-<body>
-  <div class="timer" id="time">
-  </div>
- <div class="wrapper">
+<body class = "flex">
+    <section id="category-page">
+        <div class="header">
+            <div class="logo">
+                <h3>DaQuiz</a></h3>
+            </div>
+            <div class="nav-right">
+                <ul>
+                    <li><a href="./home/home.html">Home</a></li>
+                    <li><a href="./home.html#about-page">About</a></li>
+                </ul>
+                <div class="contact">
+                    <a href="./contact.html">Contact</a>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="title">
+                <h1>Please choose a category of questions:</h1>
+            </div>
+            <div class="description">
+                <p>Each category contains 5 questions. You have 15 seconds to answer each question!</p>
+            </div>
+            <br>
+        </div>
+    <div class="images">
+       
+        <img src="https://images.pexels.com/photos/6256253/pexels-photo-6256253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"  id="category-math">
+        <img src="https://images.pexels.com/photos/5952738/pexels-photo-5952738.jpeg"alt="Computing" id="category-computer">
+        <img src="https://images.pexels.com/photos/3319222/pexels-photo-3319222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" id="category-history">> 
+    </div>
+    </section>
+    <div  id="timer" class="timer"></div>
+
+    <div id="container" class="wrapper" style="display: none;">
 
     <div class="quiz-container">
 
@@ -25,10 +57,15 @@
     </div>
 
     
-        <button id="back-home" style="display: none;">Go back home</button>
-        <button id="play-again" style="display: none;">Try again!</button>
+        <div class="end">
+            
         <p id="comment" style="display: none;"></p>
-        <div id="result"></div>
+        <div class="score" id="result"></div>
+        <div class="btn">
+            <button id="back-home" style="display: none;">Go back home</button>
+        <button id="play-again" style="display: none;">Try again!</button>
+        </div>
+        </div>
   
 
     
@@ -45,24 +82,10 @@
     </div>
 
     </div>
+
+
+
+
+    <script defer src = "script.js"></script>
 </body>
-<script>
-  var time=15;
-  console.log(time);
-  var x= setInterval(async()=>{
-      if(time>=10){
-        document.getElementById("time").innerHTML="00:"+time;
-      }
-      else{
-        document.getElementById("time").innerHTML="00:0"+time; 
-      }
-      time--;
-      if(time<0){
-        const delay = ms => new Promise(res => setTimeout(res, ms));
-        document.getElementById("time").innerHTML="Time's Up!"; 
-        await delay(1000);
-        window.location.href="./result.html";
-      }
-  },1000)
-</script>
 </html>
