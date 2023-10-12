@@ -17,6 +17,9 @@
 - Result page
   Immediate feedback on quiz performance, including scores and comments.
 - Quiz category
+  Categorized quizzes by topic.
+
+
 
 
 
