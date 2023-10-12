@@ -7,6 +7,7 @@
 ## User Roles
 - Access and interact with quizzes without creating an account.
 - The user can just join a quiz without having to register.
+- The user has to complete each question of our quiz in less than 15 seconds.
 
 ## General Functionality
 - Home Page
