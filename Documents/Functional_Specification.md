@@ -4,6 +4,7 @@
   DaQuiz aims to create an interactive online platform for users to engage in short quizzes on various topics, promoting both knowledge and 
   entertainment.
 
+## User Roles
 
 
 
