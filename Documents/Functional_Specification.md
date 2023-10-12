@@ -36,6 +36,7 @@
 
 ## Quality
 - Create an aesthetically pleasing and user-friendly interface.
+- Optimize the application's code and data transfer processes for efficient operation, 
 
 
 
