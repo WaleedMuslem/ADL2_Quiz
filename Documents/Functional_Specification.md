@@ -1,2 +1,2 @@
-Project: DaQuiz Functional Specification
+
 
