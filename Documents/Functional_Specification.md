@@ -20,7 +20,7 @@
 - Quiz category
   Categorized quizzes by topic.
 - Users score
-  System tracks user scores and displays them at the end.
+  System tracks user scores and displays them at the end.The score is not saved and the user can choose to either do another quiz or to exit our website.
 
 ## User Interface (UI) for Quiz Taking
 - Create an engaging and interactive user interface.
