@@ -9,6 +9,8 @@
 
 ## General Functionality
 - Home Page
+  "Start" button to navigate to the quiz topic selection page.
+
 
 
 
