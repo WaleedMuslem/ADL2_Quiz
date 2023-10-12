@@ -13,6 +13,8 @@
 - About and contact pages.
   Description regarding the website and contacts of developers
 - Quiz page
+  Questions, options, and user progress.
+
 
 
 
