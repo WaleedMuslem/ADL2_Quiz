@@ -29,6 +29,7 @@
 - Integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
 ## Design and Layout
+- Develop a visually appealing design with intuitive layouts to enhance the user experience.
 
 
 
