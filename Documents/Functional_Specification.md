@@ -2,7 +2,7 @@
 ## Introduction
 - The purpose of this document is to provide a detailed description of the functional requirements for the DaQuiz project.
   DaQuiz aims to create an interactive online platform for users to engage in short quizzes on various topics, promoting both knowledge and 
-  entertainment.
+  entertainment.We currently have 3 categories that the user can choose from 
 
 ## User Roles
 - Access and interact with quizzes without creating an account.
@@ -26,6 +26,7 @@
 ## User Interface (UI) for Quiz Taking
 - Create an engaging and interactive user interface.
 - Ensure easy navigation and provide clear instructions.
+- 
 
 ## Quiz API Integration
 - Integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
