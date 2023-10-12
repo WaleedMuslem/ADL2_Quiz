@@ -36,6 +36,14 @@ function eventListeners() {
     });
 }
 
+_backHome.addEventListener('click', function() {
+
+    const homePageURL = './home/home.html'; 
+    
+    // Redirect to the home page
+    window.location.href = homePageURL;
+});
+
 document.addEventListener('DOMContentLoaded', function () {
     eventListeners();
     _totalQuestion.textContent = totalQuestion;
