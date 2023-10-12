@@ -21,6 +21,8 @@
 - Users score
   System tracks user scores and displays them at the end.
 
+## User Interface (UI) for Quiz Taking
+
 
 
 
