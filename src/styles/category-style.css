@@ -6,6 +6,12 @@
 .image{
     width: 420px;
     height: 580px;
-    padding-left: 20px;
     border-radius: 53px;
+}
+
+.button{
+    width: 420px;
+    height: 580px;
+    border-radius: 53px;
+    margin-left: 20px;
 }
