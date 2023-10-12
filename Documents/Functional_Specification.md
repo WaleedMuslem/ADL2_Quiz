@@ -28,6 +28,8 @@
 ## Quiz API Integration
 - Integrate with a quiz API (Trivia API) to fetch quiz content dynamically.
 
+## Design and Layout
+
 
 
 
