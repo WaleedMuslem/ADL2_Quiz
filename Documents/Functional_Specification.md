@@ -14,6 +14,8 @@
   Description regarding the website and contacts of developers
 - Quiz page
   Questions, options, and user progress.
+- Result page
+  Immediate feedback on quiz performance, including scores and comments.
 
 
 
